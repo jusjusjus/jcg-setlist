@@ -6,8 +6,8 @@ hide:
 # Sommer Concerto - 10. Juli
 
 Willkommen zum Sommerkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
-10. Juli um 20 Uhr in der Aula des Campus Golm begrüßen zu dürfen. Der Eintritt
-ist frei.
+10. Juli um 20 Uhr in der Kaiser-Friedrich-Kirche zu Golm begrüßen zu dürfen.
+Der Eintritt ist frei.
 
 ## Programm
 
