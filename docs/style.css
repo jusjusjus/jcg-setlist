@@ -12,3 +12,17 @@ table {
 td {
     border-top: none !important;
 }
+
+body {
+    background-image: url('assets/images/background.jpg');
+    background-size: cover; /* or contain, depending on your preference */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* Keeps the background fixed while scrolling */
+    background-position: center;
+}
+
+.md-main {
+    background: rgba(255, 255, 255, 0.4); /* Optional: Adds a white overlay with some transparency */
+    padding: 20px;
+    border-radius: 8px;
+}
