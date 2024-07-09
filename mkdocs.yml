@@ -1,0 +1,9 @@
+site_name: Jazzchor des Compus Golm
+extra_css:
+  - style.css
+
+theme:
+  name: material
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
