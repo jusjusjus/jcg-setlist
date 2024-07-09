@@ -9,9 +9,3 @@ theme:
     code: 'Roboto Mono'
   features:
     - navigation.footer
-
-extra:
-  social:
-    - icon: fontawesome/brands/mastodon # (1)!
-      link: https://fosstodon.org/@squidfunk
-      name: Mastodon
