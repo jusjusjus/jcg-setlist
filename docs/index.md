@@ -18,7 +18,7 @@ Der Eintritt ist frei.
 * [**How Sweet It Is**](06-how-sweet-it-is)
 * [**Tea For Two**](07-tea-for-two)
 * [**Tourdion**](08-tourdion)
-* [**I Get Around**](03-i-get-around)
+* [**I Get Around**](08b-i-get-around)
 
 *Pause*
 
