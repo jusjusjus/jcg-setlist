@@ -4,46 +4,47 @@ Christopher Lin
 
 <table>
 <tr>
-<td>
+  <td>
+    <h5> Original </h5>
+  </td>
+    
+  <td>
+    <h5> Übersetzung </h5>
+  </td>
+</tr>
 
-<h5> Original </h5>
+<tr>
+  <td> 
+    Baba yetu, yetu uliye <br>
+    Mbinguni yetu, yetu, amina <br>
+    Baba yetu, yetu, uliye <br>
+    Jina lako litukuzwe 
+  </td>
+  <td>
+    Vater, unser, der du bist <br>
+    im Himmel, Unser, amen <br>
+    Vater, unser, der du bist <br>
+    Dein Name werde geheiligt 
+  </td>
+</tr>
 
-<p> 
-Baba yetu, yetu uliye <br>
-Mbinguni yetu, yetu, amina <br>
-Baba yetu, yetu, uliye <br>
-Jina lako litukuzwe 
-</p>
+<tr>
+  <td> 
+    Na milele
+  </td>
+  <td>
+    Für immer und ewig
+  </td>
+</tr>
 
-<p>
-Na milele
-</p>
-
-<p>
-Ufalme wako ufike utakalo <br>
-Lifanyike duniani kama mbinguni, amina 
-</p>
-
-</td>
-<td>
-
-<h5> Übersetzung </h5>
-
-<p>
-Vater, unser, der du bist <br>
-im Himmel, Unser, amen <br>
-Vater, unser, der du bist <br>
-Dein Name werde geheiligt 
-</p>
-
-<p>
-Für immer und ewig
-</p>
-
-<p>
-Dein Reich komme <br>
-Dein Wille geschehe auf Erden wie im Himmel, amen 
-</p>
-
-</td>
+<tr>
+  <td> 
+    Ufalme wako ufike utakalo<br>
+    Lifanyike duniani kama mbinguni, amina
+  </td>
+  <td>
+    Dein Reich komme<br>
+    Dein Wille geschehe auf Erden wie im Himmel, amen
+  </td>
+</tr>
 </table>
