@@ -8,8 +8,8 @@ Chausseestr. 21
 
 ## Kontakt
 
-Telefon: +49 177 939 5281
-E-Mail: jschwabedal@gmail.com
+Telefon: +49 177 939 5281  
+E-Mail: jschwabedal@gmail.com  
 
 ## Haftungsausschluss
 
