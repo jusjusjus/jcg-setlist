@@ -18,7 +18,7 @@ The Beach Boys
         </td>
         <td>
             Rundherum, herumfahren, ich fahre herum, meine Art von Stadt<br>
-            Ich bin ein echt cooler Kopf, ich verdiene echt gutes Geld
+            Ich bin ein echt cooler Kopf, ich verdiene echt gutes Geld.
         </td>
     </tr>
     <tr>
@@ -27,8 +27,8 @@ The Beach Boys
             I gotta find a new place where the kids are hip
         </td>
         <td>
-            Es nervt mich, immer wieder die gleiche Straße rauf und runter zu fahren<br>
-            Ich muss einen neuen Ort finden, wo die Kids cool sind
+            Es nervt mich, immer wieder auf der gleichen Straße rum zu fahren<br>
+            Ich muss mal einen neuen Ort finden, wo die Leute cool sind.
         </td>
     </tr>
     <tr>
@@ -37,8 +37,8 @@ The Beach Boys
             Yeah, the bad guys know us and they leave us alone
         </td>
         <td>
-            Meine Kumpels und ich werden richtig bekannt<br>
-            Ja, die bösen Jungs kennen uns und lassen uns in Ruhe
+            Meine Kumpels und ich sind richtig bekannt,<br>
+            die bösen Jungs kennen uns auch und lassen uns in Ruhe
         </td>
     </tr>
     <tr>
@@ -47,8 +47,8 @@ The Beach Boys
             And we've never missed yet with the girls we meet 
         </td>
         <td>
-            Wir nehmen immer mein Auto, weil es noch nie geschlagen wurde<br>
-            Und wir haben noch nie ein Mädchen verpasst, das wir treffen
+            Wir nehmen immer mein Auto, weil das noch nie kaputt gegangen ist,<br>
+            Und wir haben es noch nie mit den Mädels vermasselt, die wir treffen.
         </td>
     </tr>
     <tr>
@@ -57,8 +57,8 @@ The Beach Boys
             To leave their best girl home now on Saturday night 
         </td>
         <td>
-            Keiner der Jungs geht fest, weil es nicht richtig wäre<br>
-            Ihre beste Freundin jetzt am Samstagabend zu Hause zu lassen
+            Keiner der Jungs ist fest vergeben, weil es nicht richtig wäre<br>
+            seine beste Freundin am Samstagabend zu Hause zu lassen.
         </td>
     </tr>
 </table>

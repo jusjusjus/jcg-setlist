@@ -19,21 +19,21 @@ Herb Magidson (Text)
         </td>
         <td>
             Es ist etwas Wagemutiges, der Continental<br>
-            Eine Art zu tanzen, die wirklich ultra neu ist
+            Eine Art zu tanzen, die wirklich ultra neu ist.
         </td>
     </tr>
     <tr>
         <td>
-            It's very subtle, the Continental<br>
-            Because it does what you want it to do<br>
-            It has a passion, the Continental<br>
-            An invitation to moonlight and romance
+            It's very subtle, the Continental,<br>
+            Because it does what you want it to do.<br>
+            It has a passion, the Continental,<br>
+            An invitation to moonlight and romance.
         </td>
         <td>
-            Es ist sehr subtil, der Continental<br>
-            Weil er das tut, was du willst<br>
-            Er hat eine Leidenschaft, der Continental<br>
-            Eine Einladung zum Mondschein und zur Romantik
+            Es ist sehr subtil, der Continental,<br>
+            Weil er das tut, was du willst,<br>
+            Er ist leidenschaftlich, der Continental<br>
+            Eine Einladung zur Romantik bei Nacht.
         </td>
     </tr>
     <tr>
@@ -76,14 +76,14 @@ Herb Magidson (Text)
             You will do the Continental all the time
         </td>
         <td>
-            Du küsst, küsst, küsst, während du tanzt<br>
-            Du singst, wie du singst, während du tanzt<br>
-            Du wirst wissen, bevor der Tanz vorbei ist<br>
-            Dass du in sie verliebt bist und sie in dich verliebt ist<br>
-            Du wirst feststellen, dass du beim Tanzen<br>
-            Einen Rhythmus in deinem Herzen und deiner Seele hast<br>
-            Einen bestimmten Rhythmus, den du nicht kontrollieren kannst<br>
-            Du wirst den Continental die ganze Zeit tanzen
+            Du küsst, küsst, küsst, während du tanzt,<br>
+            Du singst, wie du singst, während du tanzt,<br>
+            Du wirst wissen, bevor der Tanz vorbei ist,<br>
+            Dass du in sie verliebt bist und sie in dich verliebt ist,<br>
+            Du wirst feststellen, dass du beim Tanzen,<br>
+            Einen Rhythmus in deinem Herzen und deiner Seele hast,<br>
+            Einen bestimmten Rhythmus, den du nicht kontrollieren kannst,<br>
+            Du wirst den Continental die ganze Zeit tanzen.
         </td>
     </tr>
 </table>

@@ -20,7 +20,7 @@ Pierre Attaingnant
             Chantons et buvons, les amis, buvons donc!
         </td>
         <td>
-            Wenn ich klaren Wein trinke<br>
+            Wenn ich Rose trinke,<br>
             Freund, alles dreht sich, dreht sich, dreht sich, dreht sich.<br>
             Deshalb trinke ich jetzt Anjou oder Arbois.<br>
             Lasst uns singen und trinken, lasst uns diesem Fläschchen den Krieg erklären,<br>

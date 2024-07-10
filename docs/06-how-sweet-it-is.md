@@ -19,10 +19,10 @@ James Taylor
             And there you were
         </td>
         <td>
-            Ich brauchte den Schutz von jemandes Armen<br>
-            Und da warst du<br>
-            Ich brauchte jemanden, der meine Höhen und Tiefen versteht<br>
-            Und da warst du
+            Ich brauchte die Geborgenheit von Jemandem,<br>
+            Und da warst du,<br>
+            Ich brauchte jemanden, der meine Höhen und Tiefen versteht,<br>
+            Und da warst du,
         </td>
     </tr>
     <tr>
@@ -35,8 +35,8 @@ James Taylor
         <td>
             Mit süßer Liebe und Hingabe<br>
             Meine Emotionen tief berührend<br>
-            Ich möchte anhalten und dir danken, Baby<br>
-            Ich möchte anhalten und dir danken, Baby, ja, das möchte ich
+            Ich möchte kurz halt machen und dir danken, Baby<br>
+            Ich möchte kurz halt machen und dir danken,
         </td>
     </tr>
     <tr>
@@ -46,9 +46,9 @@ James Taylor
             How sweet it is to be loved by you
         </td>
         <td>
-            Wie schön es ist, von dir geliebt zu werden<br>
-            Du weißt, dass es sich so gut anfühlt!<br>
-            Wie schön es ist, von dir geliebt zu werden
+            Wie schön es ist, von dir geliebt zu werden,<br>
+            Du weißt wie gut sich das anfühlt!<br>
+            Wie schön es ist, von dir geliebt zu werden.
         </td>
     </tr>
     <tr>
@@ -59,24 +59,24 @@ James Taylor
             Everywhere I went it seems I'd been there before
         </td>
         <td>
-            Ich schließe nachts die Augen<br>
-            Frage mich, wo wäre ich ohne dich in meinem Leben.<br>
-            Alles, was ich tat, war nur langweilig<br>
-            Überall, wo ich hinging, schien ich schon einmal gewesen zu sein
+            Wenn ich nachts meine Augen schließe<br>
+            frage ich mich, wo ich ohne dich in meinem Leben wäre.<br>
+            Alles meine Aktivitäten waren so langweilig,<br>
+            Alles was ich erkundete, schien mir so als, wenn ich es schon kannte.
         </td>
     </tr>
     <tr>
         <td>
-            But you brighten up for me all of my days<br>
-            With a love so sweet in so many ways<br>
-            I wanna stop and thank you, baby<br>
+            But you brighten up for me all of my days,<br>
+            With a love so sweet in so many ways,<br>
+            I wanna stop and thank you, baby,<br>
             I just wanna stop and thank you baby,
         </td>
         <td>
-            Aber du erhellt mir alle meine Tage<br>
-            Mit einer Liebe so süß auf so viele Arten<br>
-            Ich möchte anhalten und dir danken, Baby<br>
-            Ich möchte einfach anhalten und dir danken, Baby, oh ja
+            Aber du erhellt mir alle meine Tage,<br>
+            Mit einer Liebe so süß auf so viele Weisen,<br>
+            Ich möchte kurz halt machen und Dir danken, Baby<br>
+            Ich möchte einfach anhalten und dir danken, Baby,
         </td>
     </tr>
     <tr>
