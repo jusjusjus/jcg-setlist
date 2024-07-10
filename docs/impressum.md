@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  - toc
+  - footer
+---
+
 # Impressum
 
 **Angaben gemäß § 5 TMG**

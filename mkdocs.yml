@@ -4,8 +4,18 @@ extra_css:
 
 theme:
   name: material
+  custom_dir: overrides
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
   features:
     - navigation.footer
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:jazzchor.campus.golm@gmail.com
+      name: Schreib uns eine E-Mail
+  generator: false
+
+copyright: '<a href="/jcg-setlist/impressum">Impressum</a> | &copy; Jazzchor des Campus Golm'
