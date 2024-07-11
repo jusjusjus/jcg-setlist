@@ -1,0 +1,14 @@
+/* tables should have shadows, rounded edges, and red background */
+.bg-primary {
+    background-color: red;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #888888;
+}
+
+td {
+    border-top: none !important;
+}
