@@ -3,6 +3,9 @@ site_url: https://jusjusjus.github.io/jcg-setlist/
 extra_css:
   - style.css
 
+plugins:
+  - privacy
+
 theme:
   name: material
   custom_dir: overrides
