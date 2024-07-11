@@ -36,6 +36,23 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:jazzchor.campus.golm@gmail.com
       name: Schreib uns eine E-Mail
+
   generator: false
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX
+    feedback:
+      title: Hat Ihnen dieses Lied gefallen?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: Das Lied hat mir gefallen.
+          data: 1
+          note: >-
+            Vielen Dank für Ihr Feedback!
+        - icon: material/emoticon-sad-outline
+          name: Das Lied hat mir nicht so gut gefallen.
+          data: 0
+          note: >-
+            Vielen Dank für Ihr Feedback!
 
 copyright: '<a href="/jcg-setlist/impressum">Impressum</a> | &copy; Jazzchor des Campus Golm'
