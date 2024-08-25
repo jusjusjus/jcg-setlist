@@ -14,8 +14,7 @@ Der Eintritt ist frei.
 * [**Time After Time**](01-time-after-time)
 * [**I'll Be There For You**](02-ill-be-there-for-you)
 * [**Raindrops Keep Fallin' On My Head**](03-raindrops)
-* **Eternal Flame**
-* [**Run To You**](04-run-to-you)
+* [**Eternal Flame**](04-eternal-flame)
 * [**How Sweet It Is**](05-how-sweet-it-is)
 * [**Ander Sevdaluk**](06-ander-sevdaluk)
 * [**Chili Con Carne**](07-chili-con-carne)
