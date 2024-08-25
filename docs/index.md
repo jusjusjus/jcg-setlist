@@ -21,8 +21,8 @@ Der Eintritt ist frei.
 
 *Pause*
 
-* [Mittmachteil **Da pacem, Domine**](07b-da-pacem-domine)
-* [**I Get Around**](08-i-get-around)
+* [**I Get Around**](08a-i-get-around)
+* [Mittmachteil **Da pacem, Domine**](08b-da-pacem-domine)
 * [**The Continental**](09-the-continental)
 * [**Only You**](10-only-you)
 * [**Tourdion**](11-tourdion)
