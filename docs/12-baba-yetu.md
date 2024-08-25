@@ -21,10 +21,10 @@ Christopher Lin
     Jina lako litukuzwe 
   </td>
   <td>
+    Vater unser, der du bist <br>
+    im Himmel, Unser, Amen <br>
     Vater, unser, der du bist <br>
-    im Himmel, Unser, amen <br>
-    Vater, unser, der du bist <br>
-    Dein Name werde geheiligt 
+    geheiligt werde Dein Name.
   </td>
 </tr>
 
@@ -43,8 +43,8 @@ Christopher Lin
     Lifanyike duniani kama mbinguni, amina
   </td>
   <td>
-    Dein Reich komme<br>
-    Dein Wille geschehe auf Erden wie im Himmel, amen
+    Dein Reich komme,<br>
+    Dein Wille geschehe, wie im Himmel so auf Erden, Amen!
   </td>
 </tr>
 </table>

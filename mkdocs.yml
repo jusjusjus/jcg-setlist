@@ -1,11 +1,41 @@
 site_name: Jazzchor des Compus Golm
+site_url: https://jusjusjus.github.io/jcg-setlist/
 extra_css:
   - style.css
 
+plugins:
+  - privacy
+
 theme:
+  icon:
+    logo: material/music-note
+    favicon: material/music-note
+
   name: material
+  custom_dir: overrides
   font:
     text: 'Roboto'
     code: 'Roboto Mono'
+
   features:
     - navigation.footer
+
+  palette:
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Heller Modus
+
+    - scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Dunkler Modus
+
+extra:
+  social:
+    - icon: fontawesome/solid/envelope
+      link: mailto:jazzchor.campus.golm@gmail.com
+      name: Schreib uns eine E-Mail
+  generator: false
+
+copyright: '<a href="/jcg-setlist/impressum">Impressum</a> | &copy; Jazzchor des Campus Golm'
