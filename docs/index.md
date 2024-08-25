@@ -29,6 +29,6 @@ Der Eintritt ist frei.
 * [**Tourdion**](11-tourdion)
 * [**Baba Yetu**](12-baba-yetu)
 * [**Scarborough Fair**](13-scarborough-fair)
-* [**Voi Voi**](14-ander-sevdaluk)
+* [**Voi Voi**](14-voi-voi)
 
 *Und wenn ihr nett fragt gibts vielleicht noch ne Zugabe ;)*
