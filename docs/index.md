@@ -11,20 +11,24 @@ Der Eintritt ist frei.
 
 ## Programm
 
-* [**Baba Yetu**](01-baba-yetu)
-* [**Raindrops Keep Fallin' On My Head**](02-raindrops)
+* [**Time After Time**](01-time-after-time)
+* [**I'll Be There For You**](02-ill-be-there-for-you)
+* [**Raindrops Keep Fallin' On My Head**](03-raindrops)
+* **Eternal Flame**
 * [**Run To You**](04-run-to-you)
-* [**Time After Time**](05-time-after-time)
-* [**How Sweet It Is**](06-how-sweet-it-is)
-* [**Tea For Two**](07-tea-for-two)
-* [**Tourdion**](08-tourdion)
-* [**I Get Around**](08b-i-get-around)
+* [**How Sweet It Is**](05-how-sweet-it-is)
+* [**Ander Sevdaluk**](06-ander-sevdaluk)
+* [**Chili Con Carne**](07-chili-con-carne)
 
 *Pause*
 
-* [**The Continental**](10-the-continental)
-* **Parkplatzregen**
-* [**Scarborough Fair**](11-scarborough-fair)
-* [**Ander Sevdaluk**](12-ander-sevdaluk)
-* [**Only You**](13-only-you)
-* [**I'll Be There For You**](13b-ill-be-there-for-you)
+* [Mittmachteil **Da pacem, Domine**](07b-da-pacem-domine)
+* [**I Get Around**](08-i-get-around)
+* [**The Continental**](09-the-continental)
+* [**Only You**](10-only-you)
+* [**Tourdion**](11-tourdion)
+* [**Baba Yetu**](12-baba-yetu)
+* [**Scarborough Fair**](13-scarborough-fair)
+* [**Voi Voi**](14-ander-sevdaluk)
+
+*Und wenn ihr nett fragt gibts vielleicht noch ne Zugabe ;)*
