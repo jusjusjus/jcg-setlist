@@ -3,10 +3,10 @@ hide:
   - toc
 ---
 
-# Sommer Konzert - 10. Juli
+# Sommer Konzert - 25. August
 
 Willkommen zum Sommerkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
-10. Juli um 20 Uhr in der Kaiser-Friedrich-Kirche zu Golm begrüßen zu dürfen.
+25. August um 20 Uhr in der Alten Neuendorfer Kirche begrüßen zu dürfen.
 Der Eintritt ist frei.
 
 ## Programm
